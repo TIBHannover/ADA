@@ -1,5 +1,7 @@
 # ADA Semantic Publishing Pipeline
 
+(ADA Pipeline)
+
 &mdash; Next Generation Books
 
 An infrastructural open-source software project to support workflows for open science digital objects and improving open standards in multi-format book publishing.
